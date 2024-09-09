@@ -14,3 +14,4 @@ Allows you to release yourself from custody, with no matter you're host or clien
 
 ### If you want to use "clear" version:
 Please visit this page: [Mod Workshop](https://modworkshop.net/mod/49330)
+CHEAT AND CLEAR VERSION CONFLICTS WITH EACH OTHER! USE ONLY ONE OF THEM!!
