@@ -4,10 +4,8 @@ local function releaseMe(localplayer)
 end
 
 if Utils:IsInHeist() then
-    if Network:is_server() then
-        local localplayer = managers.player:local_player()
-        if not alive(localplayer) then
-            releaseMe(localplayer)
-        end
-    end
+    local localplayer = managers.player:local_player()
+    if not alive(localplayer) then
+        releaseMe(localplayer)
+     end
 end
